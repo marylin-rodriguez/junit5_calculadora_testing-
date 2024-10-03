@@ -1,6 +1,2 @@
-package org.marylin;
-
-public class CalculadoraTest {
-
-
+package org.marylin;public class CalculadoraTest {
 }
